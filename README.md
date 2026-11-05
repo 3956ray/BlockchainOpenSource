@@ -4,6 +4,8 @@
 
 > 本清单中的资源类型不同：普通开源 Issue 不一定有报酬；赏金可能需要先认领或参加评选；Grant 通常是对项目的资助。任务状态、资格和支付规则以项目官方页面为准。
 
+**入口核查日期：2026-11-05。** 核查平台公开页面及仓库归档状态；页面可访问不代表所有任务当前开放、一定支付或接受所有地区申请。部分页面需要登录或 JavaScript，无法确认其具体项目状态。
+
 ## 目录
 
 - [如何开始](#如何开始)
@@ -26,9 +28,9 @@
 
 | 资源 | 覆盖范围 | 用途 |
 | --- | --- | --- |
-| [awesome-web3](https://github.com/useWeb3/awesome-web3) | Web3 开发工具、教程、社区与资助 | 广泛了解生态，发现项目 |
+| [awesome-web3](https://github.com/useWeb3/awesome-web3) | Web3 开发工具、教程、社区与资助 | **已归档**，仅作历史参考，链接可能过时 |
 | [awesome-ethereum](https://github.com/w3hc/awesome-ethereum) | 以太坊资源、工具和项目 | 寻找以太坊生态项目 |
-| [Ethereum Developer Tools List](https://github.com/Consensys/ethereum-developer-tools-list) | 以太坊开发工具和客户端 | 按技术方向发现工具与仓库 |
+| [Ethereum Developer Tools List](https://github.com/Consensys/ethereum-developer-tools-list) | 以太坊开发工具和客户端 | **已归档**，仅作历史参考，链接可能过时 |
 | [Awesome Web3 Grants](https://github.com/zkprimecapital/awesome-web3-grants) | 跨生态 Grant 计划 | 查找资助入口；申请状态须再次核实 |
 | [web3-bounties](https://github.com/wolz-CODElife/web3-bounties) | 社区整理的 Web3 赏金项目 | 补充查找赏金；清单规模较小 |
 | [OSS.Fund Funding Directory](https://www.oss.fund/funding/) | 开源赏金平台与资金来源 | 发现更多通用开源平台；包含历史项目 |
@@ -40,8 +42,8 @@
 | 平台 | 范围 | 机会及报酬说明 |
 | --- | --- | --- |
 | [Superteam Earn](https://superteam.fun/earn) | 以 Solana 生态为主 | 开发赏金、项目、工作和 Grants；部分任务为竞赛，提交不保证获奖 |
-| [Algora](https://algora.io/) | 通用开源软件 | 开源开发赏金；可搜索区块链相关项目 |
-| [Dework](https://dework.xyz/) | Web3 社区与 DAO | 项目任务与社区协作；是否有偿取决于具体任务 |
+| [Algora](https://algora.io/) | 通用开源软件 | 首页主要展示招聘服务；仍有[开源挑战](https://algora.io/challenges/turso)，具体赏金与资格按项目确认 |
+| [Dework](https://dework.xyz/) | Web3 社区与 DAO | 首页提供赏金入口；未能确认具体任务的当前开放状态，是否有偿以任务为准 |
 | [FindOpenSource.dev](https://findopensource.dev/contribute) | 通用开源软件 | 聚合适合新贡献者的任务；不保证有报酬 |
 | [Good First Issue](https://www.goodfirstissue.org/) | 通用开源软件 | 发现适合初次贡献的 GitHub Issue；不保证有报酬 |
 
@@ -67,8 +69,10 @@
 | 项目 | 方向 | 入口 |
 | --- | --- | --- |
 | Agave | Solana 验证节点客户端；Rust | [Issues](https://github.com/anza-xyz/agave/issues) |
-| Solana 开发者内容 | 开发者文档与教程 | [Issues](https://github.com/solana-foundation/developer-content/issues) |
+| solana.com | Solana 官网与开发者文档 | [Issues](https://github.com/solana-foundation/solana-com/issues) · [仓库说明](https://github.com/solana-foundation/solana-com) |
 | Superteam Earn | Solana 生态机会平台；其自身也是开源项目 | [Issues](https://github.com/SuperteamDAO/earn/issues) |
+
+旧的 [solana-foundation/developer-content](https://github.com/solana-foundation/developer-content) 仓库已归档，不再作为贡献入口；solana.com 仓库包含开发者文档。
 
 ### 搜索技巧
 
@@ -104,10 +108,10 @@ Grant 通常支持一个项目或公共产品的建设，与完成一个固定�
 | 平台 | 方向 |
 | --- | --- |
 | [Immunefi](https://immunefi.com/) | Web3 安全漏洞赏金 |
-| [CodeHawks](https://www.codehawks.com/) | 智能合约安全审计竞赛 |
-| [CertiK Bounty](https://www.certik.com/bounty) | 安全赏金及相关服务 |
-| [HackenProof](https://hackenproof.com/) | 网络与 Web3 安全漏洞赏金 |
-| [TRON Bug Bounty](https://hackerone.com/tron_dao?type=team) | TRON 在 HackerOne 上的漏洞赏金计划 |
+| [CodeHawks](https://codehawks.cyfrin.io/contests) | 智能合约安全审计竞赛 |
+| [CertiK Hunt](https://hunt.certik.com/explore) | 安全研究挑战与漏洞赏金；[官方产品介绍](https://www.certik.com/products/bug-bounty) |
+| [HackenProof](https://hackenproof.com/programs) | 网络与 Web3 安全漏洞赏金 |
+| [TRON Bug Bounty](https://hackerone.com/tron_dao?type=team) | HackerOne 页面需要 JavaScript；本次未能确认项目是否开放或接受报告 |
 
 ## 贡献流程
 
