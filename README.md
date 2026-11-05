@@ -39,12 +39,15 @@
 
 | 平台 | 范围 | 机会及报酬说明 |
 | --- | --- | --- |
-| [OnlyDust](https://www.onlydust.com/) | 跨生态开源项目 | 发现项目和 GitHub 贡献机会；部分项目或计划提供奖励，具体看规则 |
 | [Superteam Earn](https://superteam.fun/earn) | 以 Solana 生态为主 | 开发赏金、项目、工作和 Grants；部分任务为竞赛，提交不保证获奖 |
 | [Algora](https://algora.io/) | 通用开源软件 | 开源开发赏金；可搜索区块链相关项目 |
 | [Dework](https://dework.xyz/) | Web3 社区与 DAO | 项目任务与社区协作；是否有偿取决于具体任务 |
 | [FindOpenSource.dev](https://findopensource.dev/contribute) | 通用开源软件 | 聚合适合新贡献者的任务；不保证有报酬 |
 | [Good First Issue](https://www.goodfirstissue.org/) | 通用开源软件 | 发现适合初次贡献的 GitHub Issue；不保证有报酬 |
+
+### 已结束的平台
+
+- **[OnlyDust](https://www.onlydust.com/)**：官网宣布 OnlyDust 项目结束，不再作为可用的贡献或资助入口推荐。创始人在公告中将转向归因于开源协作中的代码质量和安全问题；旧文档可能尚未更新。（查阅：2026-11-05）
 
 ## 开源项目与贡献入口
 
@@ -82,7 +85,6 @@
 | --- | --- | --- |
 | Ethereum 社区 | 以太坊社区、活动与参与方式 | [官方参与导航](https://ethereum.org/community/get-involved/) |
 | Superteam | Solana 生态建设者、任务和社区 | [如何参与](https://docs.superteam.fun/the-superteam-handbook/getting-involved/how-to-contribute) |
-| OnlyDust | 开源贡献者与维护者 | [贡献者计划](https://docs.onlydust.com/contributors-hiya/onlydust-fellowship) |
 
 ## 项目资助 Grants
 
