@@ -4,7 +4,7 @@
 
 > 本清单中的资源类型不同：普通开源 Issue 不一定有报酬；赏金可能需要先认领或参加评选；Grant 通常是对项目的资助。任务状态、资格和支付规则以项目官方页面为准。
 
-**入口核查日期：2026-11-05。** 核查平台公开页面及仓库归档状态；页面可访问不代表所有任务当前开放、一定支付或接受所有地区申请。部分页面需要登录或 JavaScript，无法确认其具体项目状态。
+**入口核查日期：2026-11-05；新增生态入口核查日期：2026-11-06。** 核查平台公开页面及仓库归档状态；页面可访问不代表所有任务当前开放、一定支付或接受所有地区申请。部分页面需要登录或 JavaScript，无法确认其具体项目状态。
 
 ## 目录
 
@@ -41,6 +41,7 @@
 
 | 平台 | 范围 | 机会及报酬说明 |
 | --- | --- | --- |
+| [OpenBuild](https://openbuild.xyz/) | Web3 开发者社区 | 提供课程、挑战和 Bounties；任务类型、奖励和资格以具体页面为准 |
 | [Superteam Earn](https://superteam.fun/earn) | 以 Solana 生态为主 | 开发赏金、项目、工作和 Grants；部分任务为竞赛，提交不保证获奖 |
 | [Algora](https://algora.io/) | 通用开源软件 | 首页主要展示招聘服务；仍有[开源挑战](https://algora.io/challenges/turso)，具体赏金与资格按项目确认 |
 | [Dework](https://dework.xyz/) | Web3 社区与 DAO | 首页提供赏金入口；未能确认具体任务的当前开放状态，是否有偿以任务为准 |
@@ -63,6 +64,31 @@
 | Geth | 以太坊执行客户端；Go | [Issues](https://github.com/ethereum/go-ethereum/issues) · [贡献指南](https://geth.ethereum.org/docs/developers/geth-developer/contributing) |
 | Lighthouse | 以太坊共识客户端；Rust | [Issues](https://github.com/sigp/lighthouse/issues) |
 | Lodestar | 以太坊共识客户端与工具；TypeScript | [Issues](https://github.com/ChainSafe/lodestar/issues) |
+
+### 以太坊 Layer 2 与相关生态
+
+| 项目 | 方向 | 贡献与学习入口 |
+| --- | --- | --- |
+| Base | 基于以太坊的 Rollup | [仓库 Issues](https://github.com/base/base/issues) · [开发文档](https://docs.base.org/) |
+| Optimism / OP Stack | 以太坊扩容基础设施 | [仓库 Issues](https://github.com/ethereum-optimism/optimism/issues) · [文档](https://docs.optimism.io/) |
+| Arbitrum | 以太坊扩容与开发工具 | [Nitro Issues](https://github.com/OffchainLabs/nitro/issues) · [文档贡献指南](https://docs.arbitrum.io/contribute) |
+
+### DeFi 协议
+
+| 项目 | 方向 | 贡献与社区入口 |
+| --- | --- | --- |
+| Aave | 借贷协议 | [V3 Origin Issues](https://github.com/aave-dao/aave-v3-origin/issues) · [开发文档](https://aave.com/docs) · [治理论坛](https://governance.aave.com/) |
+| Uniswap | 交易与流动性协议 | [v4-core Issues](https://github.com/Uniswap/v4-core/issues) · [开发文档](https://developers.uniswap.org/docs) · [治理论坛](https://gov.uniswap.org/) |
+
+代码可见不一定等于所有组件均采用相同的开源许可；使用或修改前请查看各仓库的许可证，例如 [Aave 代码许可说明](https://www.aave.com/docs/resources/code-licensing)。
+
+### 其他区块链生态
+
+| 项目 | 方向 | 入口 |
+| --- | --- | --- |
+| Injective | 面向金融应用的 Layer 1 | [开发文档](https://docs.injective.network/) · [GitHub 组织](https://github.com/InjectiveLabs) |
+
+上述 Issue 和论坛入口不代表有开放的任务或保证报酬；开始前请核对仓库状态、任务讨论和贡献规则。
 
 ### Solana
 
@@ -87,6 +113,8 @@
 
 | 社区 | 方向 | 入口 |
 | --- | --- | --- |
+| [OpenBuild](https://openbuild.xyz/) | Web3 开发者学习、挑战和赏金 | [社区与资源介绍](https://github.com/openbuildxyz/build_web3_together) |
+| [OpenGuild](https://openguild.wtf/) | Polkadot 开发者教育和开源社区 | [社区首页](https://openguild.wtf/) |
 | Ethereum 社区 | 以太坊社区、活动与参与方式 | [官方参与导航](https://ethereum.org/community/get-involved/) |
 | Superteam | Solana 生态建设者、任务和社区 | [如何参与](https://docs.superteam.fun/the-superteam-handbook/getting-involved/how-to-contribute) |
 
