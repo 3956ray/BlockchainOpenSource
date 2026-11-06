@@ -113,6 +113,12 @@ Grant 通常支持一个项目或公共产品的建设，与完成一个固定�
 | [HackenProof](https://hackenproof.com/programs) | 网络与 Web3 安全漏洞赏金 |
 | [TRON Bug Bounty](https://hackerone.com/tron_dao?type=team) | HackerOne 页面需要 JavaScript；本次未能确认项目是否开放或接受报告 |
 
+### 具体项目赏金
+
+| 项目 | 平台与范围 | 参与要求 |
+| --- | --- | --- |
+| [Filecoin 漏洞赏金](https://immunefi.com/bug-bounty/filecoin/information/) | Immunefi；Filecoin 生态的区块链安全漏洞，具体资产和影响以项目 Scope 为准 | 各严重等级均需可运行的 PoC；领取奖励需 KYC。测试须在本地分叉环境进行，禁止测试主网或公共测试网。具体规则以项目页面为准。（查阅：2026-11-06） |
+
 ## 贡献流程
 
 1. 找到与自己语言和经验匹配的 Issue，确认任务仍开放并查看近期讨论。
